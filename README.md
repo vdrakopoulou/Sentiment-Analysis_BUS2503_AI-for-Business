@@ -74,7 +74,6 @@ Change model parameters (e.g. max_features, ngram_range)
 Try a different classifier (e.g. LinearSVC)
 Add extra evaluation or logging
 Document what changed and how it affected performance
-
 Option B – Run the Python template in Google Colab
 Go to https://colab.research.google.com/ and create a New Notebook.
 Upload the following files into Colab:
@@ -89,7 +88,6 @@ Use:
 %run hm_sentiment_analysis_template.py
 Run all cells and review the printed metrics and predictions.
 Save the notebook (File → Download → .ipynb) for submission.
-
 Option C – Build the workflow in KNIME (no code)
 Install KNIME Analytics Platform if you haven’t already:
 https://www.knime.com/knime-analytics-platform
@@ -116,7 +114,6 @@ Take screenshots of:
 Your workflow layout
 The Scorer output (accuracy + confusion matrix)
 These go into your lab report / assignment.
-
 3. Using ChatGPT as a Gen‑AI assistant (optional / recommended)
 Students may (subject to course policy) use ChatGPT as a co‑tutor to:
 Ask for explanations (e.g. “Explain TF–IDF in simple terms”).
@@ -129,7 +126,6 @@ My accuracy is about 78%.
 Suggest three concrete changes I could try (with short code snippets) to potentially improve accuracy.
 Important:
 Students are still responsible for understanding and being able to explain any code or text they submit.
-
 4. Suggested workflow for students
 Read the PDF case study in Sentiment Analysis_Veliota_Drakopoulou.pdf.
 Explore the data in Excel/Sheets (look at hm_sentiment_reviews.csv, count labels, read example comments).
@@ -140,7 +136,6 @@ Clarify concepts
 Suggest improvements
 Classify a small sample of comments and compare with the model
 Write your report, answering the questions in the case study handout.
-
 5. License / usage
 This repository is intended as a teaching resource for BUS2503 / AI for Business and related courses.
 Please credit Dr Veliota Drakopoulou if you reuse or adapt these materials.
