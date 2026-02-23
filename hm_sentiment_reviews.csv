@@ -1,0 +1,101 @@
+review_id,platform,review_text,rating,sentiment
+1,X,"Great in-store experience at H&M today, staff were really helpful.",5,Positive
+2,Facebook,The new seasonal jackets from H&M are such good quality for the price.,5,Positive
+3,Instagram,"Great in-store experience at H&M today, staff were really helpful.",4,Positive
+4,Instagram,The kids collection at H&M this season is adorable and affordable.,4,Positive
+5,X,The kids collection at H&M this season is adorable and affordable.,5,Positive
+6,X,Love how H&M is offering more sustainable pieces this season.,5,Positive
+7,X,"Customer service at H&M handled my exchange quickly, very satisfied.",5,Positive
+8,Facebook,H&M online checkout was super easy and delivery was faster than expected.,5,Positive
+9,Instagram,"The autumn knitwear from H&M is so cozy, definitely worth it.",4,Positive
+10,Facebook,"Great in-store experience at H&M today, staff were really helpful.",4,Positive
+11,Facebook,"The autumn knitwear from H&M is so cozy, definitely worth it.",4,Positive
+12,X,Love how H&M is offering more sustainable pieces this season.,5,Positive
+13,X,H&M online checkout was super easy and delivery was faster than expected.,5,Positive
+14,X,"Love the new prints at H&M, very trendy but still wearable.",4,Positive
+15,X,"My H&M parcel arrived earlier than the estimated date, great service!",5,Positive
+16,Facebook,H&M app is easy to use and the recommendations are spot on.,5,Positive
+17,Instagram,"Great in-store experience at H&M today, staff were really helpful.",5,Positive
+18,Instagram,"Customer service at H&M handled my exchange quickly, very satisfied.",4,Positive
+19,Facebook,Got so many compliments on my new H&M dress from the latest drop.,4,Positive
+20,X,The kids collection at H&M this season is adorable and affordable.,4,Positive
+21,Facebook,"The autumn knitwear from H&M is so cozy, definitely worth it.",5,Positive
+22,X,"Just got my order from H&M and everything fits perfectly, so happy!",4,Positive
+23,Instagram,"Really impressed with the new H&M campaign, the styling is on point.",5,Positive
+24,X,The kids collection at H&M this season is adorable and affordable.,4,Positive
+25,X,"Absolutely love the new spring collection at H&M, the colors are amazing!",4,Positive
+26,X,"Love the new prints at H&M, very trendy but still wearable.",5,Positive
+27,Instagram,"Love the new prints at H&M, very trendy but still wearable.",5,Positive
+28,Instagram,Love how H&M is offering more sustainable pieces this season.,4,Positive
+29,Facebook,The new seasonal jackets from H&M are such good quality for the price.,5,Positive
+30,Instagram,"Really impressed with the new H&M campaign, the styling is on point.",4,Positive
+31,Instagram,"Absolutely love the new spring collection at H&M, the colors are amazing!",4,Positive
+32,X,"Love the new prints at H&M, very trendy but still wearable.",5,Positive
+33,Facebook,H&M’s prices for the new collection are very reasonable.,4,Positive
+34,X,"Just got my order from H&M and everything fits perfectly, so happy!",4,Positive
+35,X,"Love the new prints at H&M, very trendy but still wearable.",5,Positive
+36,X,"Customer service at H&M handled my exchange quickly, very satisfied.",4,Positive
+37,Facebook,H&M’s prices for the new collection are very reasonable.,4,Positive
+38,Facebook,Got so many compliments on my new H&M dress from the latest drop.,4,Positive
+39,Instagram,"My H&M parcel arrived earlier than the estimated date, great service!",4,Positive
+40,Facebook,"The autumn knitwear from H&M is so cozy, definitely worth it.",4,Positive
+41,X,"Saw the new H&M collection on Instagram, might check it out later.",3,Neutral
+42,Facebook,"Returned a top to H&M, process was fine, nothing special.",3,Neutral
+43,Instagram,"Returned a top to H&M, process was fine, nothing special.",3,Neutral
+44,Instagram,The new H&M ads keep showing up on my feed.,3,Neutral
+45,X,"Saw the H&M campaign on Facebook, the outfits look alright.",3,Neutral
+46,Facebook,"Saw the H&M campaign on Facebook, the outfits look alright.",3,Neutral
+47,Facebook,"Tried on a few pieces at H&M, some worked and some didn’t.",3,Neutral
+48,Facebook,"Saw the H&M campaign on Facebook, the outfits look alright.",3,Neutral
+49,Facebook,"Saw the H&M campaign on Facebook, the outfits look alright.",3,Neutral
+50,X,"H&M delivery was on time, packaging was standard.",3,Neutral
+51,Facebook,"H&M sizes can be hit or miss, but that’s normal for fast fashion.",3,Neutral
+52,Instagram,"H&M delivery was on time, packaging was standard.",3,Neutral
+53,Facebook,"Received my H&M order today, still deciding what to keep.",3,Neutral
+54,X,"Visited H&M today and just browsed, didn’t end up buying anything.",3,Neutral
+55,X,"Tried on a few pieces at H&M, some worked and some didn’t.",3,Neutral
+56,Facebook,"Tried the new H&M jeans, the fit is fine but not amazing.",3,Neutral
+57,Facebook,"Saw the new H&M collection on Instagram, might check it out later.",3,Neutral
+58,X,"Tried on a few pieces at H&M, some worked and some didn’t.",3,Neutral
+59,Instagram,"Visited H&M today and just browsed, didn’t end up buying anything.",3,Neutral
+60,Instagram,"Got my H&M order, quality is average for the price.",3,Neutral
+61,X,"Visited H&M today and just browsed, didn’t end up buying anything.",3,Neutral
+62,Instagram,"Got my H&M order, quality is average for the price.",3,Neutral
+63,Facebook,"Visited H&M today and just browsed, didn’t end up buying anything.",3,Neutral
+64,Instagram,I buy basics from H&M now and then.,3,Neutral
+65,X,"Got my H&M order, quality is average for the price.",3,Neutral
+66,Facebook,"Really disappointed with the quality of the new H&M collection, fabric feels cheap.",1,Negative
+67,X,The stitching on my new H&M sweater came undone after one wear.,1,Negative
+68,Instagram,"Had a bad experience with H&M delivery, package was damaged.",1,Negative
+69,Instagram,The stitching on my new H&M sweater came undone after one wear.,1,Negative
+70,Facebook,The H&M store was messy and it was hard to find sizes.,1,Negative
+71,Facebook,The color of the dress from H&M looks totally different from the photos online.,1,Negative
+72,X,The H&M store was messy and it was hard to find sizes.,1,Negative
+73,Instagram,Waited a long time in line at H&M and staff didn’t seem helpful.,1,Negative
+74,Instagram,Prices at H&M have gone up but the quality has not improved.,1,Negative
+75,Instagram,Waited a long time in line at H&M and staff didn’t seem helpful.,2,Negative
+76,X,"Checkout on the H&M website kept crashing, very frustrating.",1,Negative
+77,Facebook,"Checkout on the H&M website kept crashing, very frustrating.",2,Negative
+78,Facebook,H&M shoes I ordered were uncomfortable and badly made.,1,Negative
+79,Instagram,"Checkout on the H&M website kept crashing, very frustrating.",2,Negative
+80,X,"Had a bad experience with H&M delivery, package was damaged.",2,Negative
+81,X,"Returned almost everything from my H&M order, poor quality this season.",2,Negative
+82,Facebook,The H&M store was messy and it was hard to find sizes.,1,Negative
+83,X,My H&M order was delayed without any clear update from the company.,2,Negative
+84,X,Customer service at H&M took forever to respond to my issue.,1,Negative
+85,X,My H&M order was delayed without any clear update from the company.,1,Negative
+86,Instagram,"Sizing at H&M is all over the place, nothing fit properly.",2,Negative
+87,Instagram,H&M shoes I ordered were uncomfortable and badly made.,2,Negative
+88,X,"Sizing at H&M is all over the place, nothing fit properly.",2,Negative
+89,X,"My H&M order arrived late and one item was missing, very annoyed.",1,Negative
+90,Facebook,H&M shoes I ordered were uncomfortable and badly made.,2,Negative
+91,Facebook,"Really not impressed with H&M’s latest campaign, clothes look cheap.",2,Negative
+92,Facebook,The stitching on my new H&M sweater came undone after one wear.,2,Negative
+93,Facebook,The H&M store was messy and it was hard to find sizes.,2,Negative
+94,Facebook,Customer service at H&M took forever to respond to my issue.,1,Negative
+95,Facebook,"Had a bad experience with H&M delivery, package was damaged.",1,Negative
+96,Instagram,The H&M store was messy and it was hard to find sizes.,1,Negative
+97,Instagram,Customer service at H&M took forever to respond to my issue.,2,Negative
+98,Facebook,Customer service at H&M took forever to respond to my issue.,1,Negative
+99,X,My H&M order was delayed without any clear update from the company.,1,Negative
+100,Instagram,"Really not impressed with H&M’s latest campaign, clothes look cheap.",1,Negative
